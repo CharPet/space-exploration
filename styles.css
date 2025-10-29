@@ -4,10 +4,7 @@ body {
   background-size: cover;
   width: 400px;
   margin: 0 auto;
-  /* display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center; */
+  font-family: "Orbitron", sans-serif;
 }
 
 h1 {
@@ -20,4 +17,5 @@ h1 {
   padding: 6px 12px;
   background: white;
   border: none;
+  font-family: inherit;
 }
