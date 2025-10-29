@@ -14,7 +14,7 @@ body {
 
 h1 {
   text-align: center;
-  font-family: "MedusaGothic D";
+  /* font-family: "MedusaGothic D"; */
 }
 
 .btn {
@@ -24,4 +24,9 @@ h1 {
   background: white;
   border: none;
   font-family: inherit;
+}
+
+.underline {
+  /* border-bottom: 4px solid white; */
+  text-decoration: underline;
 }
