@@ -1,3 +1,8 @@
+@font-face {
+  src: url("MedusaGothic D.otf");
+  font-family: "MedusaGothic D";
+}
+
 body {
   color: white;
   background-image: url("./images/guillermo-ferla-Oze6U2m1oYU-unsplash.jpg");
@@ -9,6 +14,7 @@ body {
 
 h1 {
   text-align: center;
+  font-family: "MedusaGothic D";
 }
 
 .btn {
